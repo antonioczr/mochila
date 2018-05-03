@@ -1,2 +1,1 @@
-# mochila
-Programação Dinâmica - Problema da Mochila
+# Programação Dinâmica - Problema da Mochila
